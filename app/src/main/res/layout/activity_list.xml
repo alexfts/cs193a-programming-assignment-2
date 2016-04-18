@@ -15,9 +15,9 @@
         android:layout_width="match_parent"
         android:gravity="center"
         android:layout_height="wrap_content"
-        android:text="TooDooler"
+        android:text="My ToDos"
         android:textSize="40dp"
-        android:textColor="#d902fa"/>
+        android:textColor="#fa0276"/>
 
     <LinearLayout
         android:layout_width="match_parent"
